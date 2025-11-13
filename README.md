@@ -2,13 +2,6 @@
 
 A modern React web application for capturing photos using your webcam.
 
-## Features
-
-- 📷 Web camera capture
-- 📸 Photo capture functionality
-- 💾 Download captured photos
-- 🎨 Modern, responsive UI
-- 🚀 Ready for Vercel deployment
 
 ## Getting Started
 
